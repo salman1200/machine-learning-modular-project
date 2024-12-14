@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+      // "PATH" : C:\Users\legion\miniconda3\Scripts\conda.exe";
+      "PATH":"C:\\Users\\legion>\\miniconda3\\Scripts;C:\\Users\\legion\\miniconda3\\Library\\bin;%PATH%"
+    }
+}

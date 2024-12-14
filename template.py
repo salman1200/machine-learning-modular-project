@@ -36,6 +36,6 @@ for file in list_of_files:
     if ((not os.path.exists(file_path)) or (os.path.getsize(file_path)) == 0):
         with open(file_path, 'w') as f:
             pass
-    else: 
+    else:
         logging.info(f"file is already present at: {file_path}")
 
